@@ -1,0 +1,19 @@
+# Foldere generate de Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Plugin-uri: doar fisierele generate
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
